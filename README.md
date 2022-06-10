@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajinkyadeshpande9&theme=gruvbox" alt="ajinkyadeshpande9" /></a> </p>
 
 
-- 🔭 I’m currently working on **Park-A-Lot**
+- 🔭 I’m currently working on **Genesis**
 
-- 🌱 I’m currently learning **Android Development, Django**
+- 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about **Java, Blender**
 
