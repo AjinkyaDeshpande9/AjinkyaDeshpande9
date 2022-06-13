@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)
 <h1 align="center">Hi 👋, I'm Ajinkya Deshpande</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
