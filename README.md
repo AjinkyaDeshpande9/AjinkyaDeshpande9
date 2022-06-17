@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)
 <h1 align="center">Hi 👋, I'm Ajinkya Deshpande</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate android development learner from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkyadeshpande09&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyadeshpande9" /> </p>
