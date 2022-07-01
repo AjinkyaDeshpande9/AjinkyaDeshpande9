@@ -57,4 +57,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AjinkyaDeshpande9&show_icons=true&theme=gruvbox" alt="AjinkyaDeshpande9" />
 </p>
 
-![MasterHead]()
+![MasterHead](https://github.com/AjinkyaDeshpande9/AjinkyaDeshpande9/blob/main/btm_banner.png)
