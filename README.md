@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)
 <h1 align="center">Hi 👋, I'm Ajinkya Deshpande</h1>
-<h3 align="center">A passionate android development learner from India</h3>
+<h3 align="center">A Passionate Android Development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkyadeshpande09&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyadeshpande9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajinkyadeshpande9&theme=gruvbox" alt="ajinkyadeshpande9" /></a> </p>
@@ -53,6 +53,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AjinkyaDeshpande9&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=20" alt="AjinkyaDeshpande9" /></p>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=ajinkyadeshpande9&bg_color=282828&color=fd8019&line=f9bc2f&point=ffc720&area=true&hide_border=true">
+
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyadeshpande9&theme=gruvbox" alt="ajinkyadeshpande9" />
   <img src="https://github-readme-stats.vercel.app/api?username=AjinkyaDeshpande9&show_icons=true&theme=gruvbox" alt="AjinkyaDeshpande9" />
 </p>
+
+
