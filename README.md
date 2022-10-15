@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)
 <h1 align="center">Hi 👋, I'm Ajinkya Deshpande</h1>
-<h3 align="center">A Passionate Android Development</h3>
+<h3 align="center">A Passionate Android Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkyadeshpande09&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyadeshpande9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajinkyadeshpande9&theme=gruvbox" alt="ajinkyadeshpande9" /></a> </p>
