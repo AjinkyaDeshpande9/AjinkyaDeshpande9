@@ -41,6 +41,7 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href=https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="latex" width="60" height="40"/> </a>
 </p>
 <p align="left">
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
@@ -55,8 +56,6 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AjinkyaDeshpande9&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=20" alt="AjinkyaDeshpande9"/></p>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=ajinkyadeshpande9&bg_color=282828&color=fd8019&line=f9bc2f&point=ffc720&area=true&hide_border=true">
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyadeshpande9&theme=gruvbox" alt="ajinkyadeshpande9" width="450" />
   <img src="https://github-readme-stats.vercel.app/api?username=AjinkyaDeshpande9&show_icons=true&theme=gruvbox" alt="AjinkyaDeshpande9" width="450"/>
